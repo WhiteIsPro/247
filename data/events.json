@@ -1,0 +1,1 @@
+[null,{"name":"Gracze","temp":"","event-type":"1","_id":"kyGJA","actions":[{"activity":"0","nameText":"<Gracze >","url":"","stat":"0","name":"Set Bot Activity"},{"info":"4","storage":"1","varName2":"Users","name":"Store Bot Client Info"},{"activity":"0","nameText":"<Gracze ${tempVars(\"Users\")}>","url":"","stat":"0","name":"Set Bot Activity"}]}]
